@@ -1,5 +1,5 @@
 import React from 'react';
-import Dispatcher from './dispatcher/Dispatcher';
+import AppDispatcher from './dispatcher/AppDispatcher';
 
 export default React.createClass({
   displayName: 'App',
